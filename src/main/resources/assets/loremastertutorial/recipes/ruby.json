@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+          [
+            {
+              "item": "loremastertutorial:ruby_block"
+            }
+          ],
+  "result":{
+    "item": "loremastertutorial:ruby",
+    "count": 9
+  }
+}

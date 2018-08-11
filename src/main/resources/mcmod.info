@@ -1,0 +1,16 @@
+[
+{
+  "modid": "loremastertutorial",
+  "name": "Loremaster Tutorial",
+  "description": "A modding tutorial for 1.12.2.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "richardsearcy.com",
+  "updateUrl": "richardsearcy.com",
+  "authorList": ["Richard Searcy", "Loremaster"],
+  "credits": "Loremaster for making these tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
